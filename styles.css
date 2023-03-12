@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+body{
+	background: black;
+	color: white;
+}
+.image{
+	display: flex;
+}
+.image img{
+	border-radius:50%;
+}
+.image .head{
+	margin-left: 20px;
+}
+.image .head h1{
+	font-size:40px;
+	margin-buttom:0;
+	paddinf-buttom:0;
+}
